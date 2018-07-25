@@ -1,6 +1,6 @@
 # The Programmer's Oath
 
-This repository was built to translate to as many languages as possible "[The Programmer's Oath](1)" as declared by [Robert C. Martin (Uncle Bob)](2).
+This repository was built to translate to as many languages as possible "[The Programmer's Oath][1]" as declared by [Robert C. Martin (Uncle Bob)][2].
 Please, feel free to add your translations.
 
 **In order to defend and preserve the honor of the profession of computer programmers, I promise that, to the best of my ability and judgement:**
@@ -15,8 +15,8 @@ Please, feel free to add your translations.
 - I will produce estimates that are honest both in magnitude and precision. I will not make promises without certainty.
 - I will never stop learning and improving my craft.
 
-1. [English](3)
-2. [Greek](4)
+1. [English][3]
+2. [Greek][4]
 
 
 [1]:https://blog.cleancoder.com/uncle-bob/2015/11/18/TheProgrammersOath.html
