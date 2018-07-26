@@ -25,7 +25,11 @@ Please, feel free to add your translations.
 
 If you want to contribute to translations, please review the [contribution guidelines][3]
 
+## License
+
+[GPL v3.0][4]
 
 [1]:https://blog.cleancoder.com/uncle-bob/2015/11/18/TheProgrammersOath.html
 [2]:https://en.wikipedia.org/wiki/Robert_C._Martin
 [3]:CONTRIBUTING.md
+[4]:LICENSE
