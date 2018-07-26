@@ -15,11 +15,16 @@ Please, feel free to add your translations.
 - I will produce estimates that are honest both in magnitude and precision. I will not make promises without certainty.
 - I will never stop learning and improving my craft.
 
+## Translation list
+
 1. [English][3]
 2. [Greek][4]
 
+## Contribution guidelines
 
+If you want to contribute to translations, please review the [contribution guidelines][5]
 [1]:https://blog.cleancoder.com/uncle-bob/2015/11/18/TheProgrammersOath.html
 [2]:https://en.wikipedia.org/wiki/Robert_C._Martin
 [3]:/translations/ENGLISH.md
 [4]:/translations/GREEK.md
+[5]:CONTRIBUTING.md
