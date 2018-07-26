@@ -17,9 +17,11 @@ Please, feel free to add your translations.
 
 1. [English][3]
 2. [Greek][4]
+3. [Malay][5]
 
 
 [1]:https://blog.cleancoder.com/uncle-bob/2015/11/18/TheProgrammersOath.html
 [2]:https://en.wikipedia.org/wiki/Robert_C._Martin
 [3]:/translations/ENGLISH.md
 [4]:/translations/GREEK.md
+[5]:/translations/MALAY.md
