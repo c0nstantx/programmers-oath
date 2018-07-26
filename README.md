@@ -15,13 +15,21 @@ Please, feel free to add your translations.
 - I will produce estimates that are honest both in magnitude and precision. I will not make promises without certainty.
 - I will never stop learning and improving my craft.
 
-1. [English][3]
-2. [Greek][4]
-3. [Malay][5]
+## Translation list
 
+1. [English](/translations/ENGLISH.md)
+2. [Greek](/translations/GREEK.md)
+3. [Malay](/translations/MALAY.md)
+
+## Contribution guidelines
+
+If you want to contribute to translations, please review the [contribution guidelines][3]
+
+## License
+
+[GPL v3.0][4]
 
 [1]:https://blog.cleancoder.com/uncle-bob/2015/11/18/TheProgrammersOath.html
 [2]:https://en.wikipedia.org/wiki/Robert_C._Martin
-[3]:/translations/ENGLISH.md
-[4]:/translations/GREEK.md
-[5]:/translations/MALAY.md
+[3]:CONTRIBUTING.md
+[4]:LICENSE
