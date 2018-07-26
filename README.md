@@ -17,16 +17,15 @@ Please, feel free to add your translations.
 
 ## Translation list
 
-1. [English][3]
-2. [Greek][4]
+1. [English](/translations/ENGLISH.md)
+2. [Greek](/translations/GREEK.md)
+3. [Malay](/translations/MALAY.md)
 
 ## Contribution guidelines
 
-If you want to contribute to translations, please review the [contribution guidelines][5]
+If you want to contribute to translations, please review the [contribution guidelines][3]
 
 
 [1]:https://blog.cleancoder.com/uncle-bob/2015/11/18/TheProgrammersOath.html
 [2]:https://en.wikipedia.org/wiki/Robert_C._Martin
-[3]:/translations/ENGLISH.md
-[4]:/translations/GREEK.md
-[5]:CONTRIBUTING.md
+[3]:CONTRIBUTING.md
