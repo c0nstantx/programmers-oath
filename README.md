@@ -20,6 +20,7 @@ Please, feel free to add your translations.
 1. [English](/translations/ENGLISH.md)
 2. [Greek](/translations/GREEK.md)
 3. [Malay](/translations/MALAY.md)
+4. [Russian](/translations/RUSSIAN.md)
 
 ## Contribution guidelines
 
