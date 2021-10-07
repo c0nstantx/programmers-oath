@@ -1,6 +1,6 @@
 # Le Serment du Développeur
 
-**Afin de défendre et conserver l'honneur de la profession de développeur informatique, je promets que, au meilleur de ma capacité et de mon jugement :**
+**Afin de défendre et préserver l'honneur de la profession de développeur informatique, je promets que, au meilleur de ma capacité et de mon jugement :**
 
 - Je ne produirai pas de code nuisible.
 - Je produirai toujours mon meilleur code. Je ne laisserai pas consciemment du code déféctueux - en comportement ou en structure - s'accumuler.
