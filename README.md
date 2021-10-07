@@ -21,7 +21,7 @@ Please, feel free to add your translations.
 2. [Greek](/translations/GREEK.md)
 3. [Malay](/translations/MALAY.md)
 4. [Russian](/translations/RUSSIAN.md)
-4. [Français](/translations/FRANÇAIS.md)
+5. [Français](/translations/FRANÇAIS.md)
 
 ## Contribution guidelines
 
