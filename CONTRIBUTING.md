@@ -1,8 +1,8 @@
 # Contributing to Programmer's Oath translations
 
-You want to contribute to this repo ???
+You want to contribute to this repo???
 
-THANKS !!! :tada::tada::tada::tada::tada::tada:
+THANKS!!! :tada::tada::tada::tada::tada::tada:
 
 
 If you have created a new translation or edit an existing one, please send us a pull request. For those just getting started with pull requests, GitHub has a [howto][1].
