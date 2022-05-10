@@ -22,6 +22,7 @@ Please, feel free to add your translations.
 3. [Malay](/translations/MALAY.md)
 4. [Russian](/translations/RUSSIAN.md)
 5. [Français](/translations/FRANÇAIS.md)
+6. [Mandarin Chinese](/translations/MANDARIN-CHINESE.md)
 
 ## Contribution guidelines
 
